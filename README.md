@@ -2,6 +2,9 @@
 ## Hello.😁 I'm Itski Haga.
 I'm a software developer in Japan.🇯🇵
 
+## Writings
+- [Zenn](https://zenn.dev/gagaga)
+
 ## Skills
 ### Human Skills
 - Tech Lead 😋
@@ -27,7 +30,7 @@ I'm a software developer in Japan.🇯🇵
 
 ## Works
 ### Templates
-- https://github.com/itskihaga/webpack-typescript
+- [Webpack×TypeScript](https://github.com/itskihaga/webpack-typescript)
 ### Libraries
-- https://www.npmjs.com/package/react-hooks-toasting
-- https://www.npmjs.com/package/meljs
+- [react-hooks-toasting = Toast@React](https://www.npmjs.com/package/react-hooks-toasting)
+- [MEL = Minimum Expression Language](https://www.npmjs.com/package/meljs)
