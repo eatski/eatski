@@ -1,62 +1,33 @@
-```json
-{
-  "title":"Hello.🌱 I`m Itski Haga.",
-  "aboutme":"I'm a software developer in Japan.",
-  "skills": {
-    "program languages": {
-      "TypeScript": {
-        "level": "■■■■□",
-        "experience": "a year",
-        "love": "■■■■□"
-      },
-      "Java": {
-        "level": "■■■■□",
-        "experience": "two years",
-        "love": "■■■□□"
-      },
-      "Kotlin": {
-        "level": "■■■□□",
-        "exprerience": "Just a hobby",
-        "love": "■■■■■"
-      },
-      "Elm": {
-        "level": "■■□□□",
-        "exprerience": "Just a hobby",
-        "love": "■■■■□"
-      },
-      "PHP": {
-        "level": "■■■□□",
-        "exprerience": "half year",
-        "love": "■■□□□"
-      }
-    },
-    "libraries": {
-      "React": {
-        "level": "■■■■□",
-        "experience": "a year",
-        "love": "■■■■□"
-      },
-      "Vue": {
-        "level": "■■■■□",
-        "experience": "a year",
-        "love": "■■■□□"
-      },
-      "Spring boot": {
-        "level": "■■■■□",
-        "exprerience": "two years",
-        "love": "■■■■□"
-      },
-      "JQuery": {
-        "level": "■■□□□",
-        "exprerience": "two years",
-        "love": "■■■■□"
-      },
-      "Laravel": {
-        "level": "■■■□□",
-        "exprerience": "half year",
-        "love": "■■□□□"
-      }
-    }
-  }
-}
-```
+
+## Hello.😁 I'm Itski Haga.
+I'm a software developer in Japan.🇯🇵
+
+## Skills
+### Human Skills
+- Tech Lead 😋
+- Scrum ✋
+- Issue&Task Management 😎
+- English 🤔
+- Negotiation ✋
+- UX Design 📝
+
+### Program Languages
+- TypeScript ✌️
+- Java ✋
+- Kotlin 😍
+- Elm 😏
+- PHP 🤔
+
+### Libraries
+- React ✌️
+- Spring boot ✌️
+- Vue ✋
+- Laravel 🤔
+- JQuery 😢
+
+## Works
+### Templates
+- https://github.com/itskihaga/webpack-typescript
+### Libraries
+- https://www.npmjs.com/package/react-hooks-toasting
+- https://www.npmjs.com/package/meljs
