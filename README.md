@@ -32,5 +32,5 @@ I'm a software developer in Japan.🇯🇵
 ### Templates
 - [Webpack×TypeScript](https://github.com/itskihaga/webpack-typescript)
 ### Libraries
-- [react-hooks-toasting = Toast@React](https://www.npmjs.com/package/react-hooks-toasting)
-- [MEL = Minimum Expression Language](https://www.npmjs.com/package/meljs)
+- [react-hooks-toasting(Toast@React)](https://www.npmjs.com/package/react-hooks-toasting)
+- [MEL(Minimum Expression Language)](https://www.npmjs.com/package/meljs)
