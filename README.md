@@ -11,11 +11,11 @@ I'm a software developer in Japan.🇯🇵
 - Scrum ✋
 - Issue&Task Management 😎
 - English 🤔
-- Negotiation ✋
 - UX Design 📝
 
 ### Program Languages
 - TypeScript ✌️
+- Rust 📝
 - Java ✋
 - Kotlin 😍
 - Elm 😏
@@ -24,6 +24,7 @@ I'm a software developer in Japan.🇯🇵
 ### Libraries
 - React ✌️
 - Spring boot ✌️
+- Yew 📝
 - Vue ✋
 - Laravel 🤔
 - JQuery 😢
