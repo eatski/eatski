@@ -1,5 +1,5 @@
 
-## Hello.😁 I'm Itski Haga.
+## Hello.
 I'm a software developer in Japan.🇯🇵
 
 ## Writings
