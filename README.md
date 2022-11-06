@@ -15,9 +15,9 @@ I'm a software developer in Japan.🇯🇵
 
 ### Program Languages
 - TypeScript ✌️
-- Rust 📝
+- Rust 😍
 - Java ✋
-- Kotlin 😍
+- Kotlin ✋
 - Elm 😏
 - PHP 🤔
 
@@ -28,10 +28,3 @@ I'm a software developer in Japan.🇯🇵
 - Vue ✋
 - Laravel 🤔
 - JQuery 😢
-
-## Works
-### Templates
-- [Webpack×TypeScript](https://github.com/itskihaga/webpack-typescript)
-### Libraries
-- [react-hooks-toasting(Toast@React)](https://www.npmjs.com/package/react-hooks-toasting)
-- [MEL(Minimum Expression Language)](https://www.npmjs.com/package/meljs)
