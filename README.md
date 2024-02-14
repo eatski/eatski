@@ -1,30 +1,18 @@
 
-## Hello.
-I'm a software developer in Japan.🇯🇵
+# 自己紹介
+東京在住のソフトウェア開発者です。
 
-## Writings
+## スキル
+- TypeScript
+- HTML
+- CSS
+- React
+- Vue
+- Rust
+
+## ライティング
 - [Zenn](https://zenn.dev/gagaga)
 
-## Skills
-### Human Skills
-- Tech Lead 😋
-- Scrum ✋
-- Issue&Task Management 😎
-- English 🤔
-- UX Design 📝
-
-### Program Languages
-- TypeScript ✌️
-- Rust 😍
-- Java ✋
-- Kotlin ✋
-- Elm 😏
-- PHP 🤔
-
-### Libraries
-- React ✌️
-- Spring boot ✌️
-- Yew 📝
-- Vue ✋
-- Laravel 🤔
-- JQuery 😢
+## 個人開発
+- [Yesonor](https://iesona.com)
+- [なんでも人狼](https://nandemo-jinro.web.app)
