@@ -2,14 +2,6 @@
 # 自己紹介
 東京在住のソフトウェア開発者です。
 
-## スキル
-- TypeScript
-- HTML
-- CSS
-- React
-- Vue
-- Rust
-
 ## ライティング
 - [Zenn](https://zenn.dev/gagaga)
 
