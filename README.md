@@ -2,6 +2,11 @@
 # 自己紹介
 東京在住のソフトウェア開発者です。
 
+## 呼び名
+- eatski(いとすき)
+- gaha
+- haga
+
 ## ライティング
 - [Zenn](https://zenn.dev/gagaga)
 
